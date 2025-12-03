@@ -130,7 +130,9 @@ cur_update_info_fields_time_series = {
     "sym_current_num_task_sets",
     "sym_parent_num_task_sets",
     "host_sym_perfect_matches_total",
-    "host_sym_any_matches_total"
+    "host_sym_any_matches_total",
+    "CurUpdate_sym_mean_generations",
+    "CurUpdate_host_mean_generations"
 }
 
 tasks_file_fields_time_series = {
